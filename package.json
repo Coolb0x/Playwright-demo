@@ -1,0 +1,19 @@
+{
+  "name": "demo-tests-practice-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.10.10",
+    "dotenv": "^16.5.0"
+  },
+  "dependencies": {
+    "playwright": "^1.50.1"
+  }
+}
